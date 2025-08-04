@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070706366200",
+    "project_id": "godhaaruci",
+    "storage_bucket": "godhaaruci.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070706366200:android:4b3a4a61266bfd44350d0d",
+        "android_client_info": {
+          "package_name": "com.godhaaruci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHl1L7SC6lrCuO_TOfafEHQdGIOz7cerY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
