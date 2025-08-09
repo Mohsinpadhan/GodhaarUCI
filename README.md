@@ -5,6 +5,7 @@
 ---
 #ScreenShot UI
 ![image alt](https://github.com/Mohsinpadhan/GodhaarUCI/blob/846316112f240a6a7f704906fc87366585f47fda/img1.jpg)
+![image alt](https://github.com/Mohsinpadhan/GodhaarUCI/blob/4398e76aff1ad3953f703c25805a0c7314cb1dd0/img2.jpg)
 
 ## 🚀 Features
 
