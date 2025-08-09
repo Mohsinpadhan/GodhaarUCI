@@ -3,6 +3,8 @@
 **Godhaar** is a React Native-based mobile app designed to assist farmers and agricultural organizations in uniquely identifying and managing cattle through image capture, farmer registration, and centralized data management. The app uses Firebase for authentication and real-time database storage.
 
 ---
+#ScreenShot UI
+![image alt](https://github.com/Mohsinpadhan/GodhaarUCI/blob/846316112f240a6a7f704906fc87366585f47fda/img1.jpg)
 
 ## 🚀 Features
 
